@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "1c58db8edb35dad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Глава 4. Транспортные задачи линейного программирования.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Глава 4. Транспортные задачи линейного программирования"
-            }
-          },
-          {
             "id": "ab0a7269d17a841b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глава 5. Транспортные сети и потоки.md",
+                "file": "Глава 1. Введение в оптимизацию.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глава 5. Транспортные сети и потоки"
+              "title": "Глава 1. Введение в оптимизацию"
+            }
+          },
+          {
+            "id": "1ed0e0085ef7010f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глава 1. Введение в оптимизацию.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Глава 1. Введение в оптимизацию"
             }
           }
         ],
@@ -217,23 +217,25 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ab0a7269d17a841b",
+  "active": "1ed0e0085ef7010f",
   "lastOpenFiles": [
+    "critique.md",
+    "Глава 1. Введение в оптимизацию.md",
+    "img/ConvexFunctions.png",
+    "img/ConvexFunctions.png",
     "Глава 3. Симплекс-метод и его модификации.md",
     "Глава 4. Транспортные задачи линейного программирования.md",
+    "img/DiagonalMethod.gif",
+    "img/TypesOfSets.png",
+    "Pasted image 20261022170150.png",
+    "Pasted image 20261022170111.png",
     "Глава 5. Транспортные сети и потоки.md",
     "img/Cycle.png",
     "Глава 2. Линейное программирование. Основы.md",
-    "Глава 1. Введение в оптимизацию.md",
     "img/SimplexTable.png",
     "Pasted image 20261021195247.png",
     "Pasted image 20261021195316.png",
     "Добро пожаловать.md",
-    "img/TypesOfSets.png",
-    "img/LevelLinesAndGrad.png",
-    "img/GeometricMethod.png",
-    "img/ConvexSets.png",
-    "img/ConvexFunctions.png",
     "img"
   ]
 }
