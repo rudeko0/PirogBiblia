@@ -1,0 +1,63 @@
+/* ==========================================================================
+   1. DEFINITION (Определения, термины, важные понятия)
+   Стиль: Строгий академический золотисто-желтый / янтарный оттенок
+   ========================================================================== */
+.callout[data-callout="definition"] {
+    --callout-icon: lucide-book-marked; /* Иконка открытой книги с закладкой */
+    background-color: rgba(224, 165, 43, 0.08) !important; /* Приглушенный фон */
+    border-left-color: #e0a52b !important;                  /* Четкая левая граница */
+}
+.callout[data-callout="definition"] .callout-title {
+    color: #ffd073 !important; /* Более светлый оттенок для читаемости текста */
+}
+.callout[data-callout="definition"] .callout-icon svg {
+    stroke: #e0a52b !important;
+}
+
+/* ==========================================================================
+   2. IMG (Иллюстрации, схемы, галереи, визуальные примеры)
+   Стиль: Нейтральный глубокий сине-серый (не отвлекает от самой картинки)
+   ========================================================================== */
+.callout[data-callout="img"] {
+    --callout-icon: lucide-image; /* Иконка изображения */
+    background-color: rgba(90, 140, 190, 0.06) !important;
+    border-left-color: #5a8cbe !important;
+}
+.callout[data-callout="img"] .callout-title {
+    color: #92bce6 !important;
+}
+.callout[data-callout="img"] .callout-icon svg {
+    stroke: #5a8cbe !important;
+}
+
+/* ==========================================================================
+   3. NOTE (Заметки, примечания, интересные факты)
+   Стиль: Классический мягкий изумрудно-зеленый (для легких акцентов в тексте)
+   ========================================================================== */
+.callout[data-callout="note"] {
+    --callout-icon: lucide-sticky-note; /* Иконка заметки */
+    background-color: rgba(46, 172, 117, 0.06) !important;
+    border-left-color: #2eac75 !important;
+}
+.callout[data-callout="note"] .callout-title {
+    color: #5cdba3 !important;
+}
+.callout[data-callout="note"] .callout-icon svg {
+    stroke: #2eac75 !important;
+}
+
+/* ==========================================================================
+   4. THEOREM (Теоремы, аксиомы, важные математические/научные законы)
+   Стиль: Строгий благородный фиолетовый оттенок
+   ========================================================================== */
+.callout[data-callout="theorem"] {
+    --callout-icon: lucide-sigma; /* Иконка знака Сигма (математическая/научная) */
+    background-color: rgba(147, 112, 219, 0.06) !important; /* Мягкий фиолетовый фон */
+    border-left-color: #9370db !important;                  /* Четкая левая граница */
+}
+.callout[data-callout="theorem"] .callout-title {
+    color: #c7b3f2 !important; /* Светло-лавандовый цвет заголовка для контраста */
+}
+.callout[data-callout="theorem"] .callout-icon svg {
+    stroke: #9370db !important;
+}
