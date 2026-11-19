@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "custom-callots"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showRibbon": true
 }
